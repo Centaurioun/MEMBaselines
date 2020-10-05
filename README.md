@@ -3,7 +3,7 @@ Collection of Baselines and or Configuration Itemss for Microsoft Endpoint Manag
 
 Currently Included is
 Baseline : Top 25 Remediations by Risk
-CIs : Configure SMB signing for Windows
+CIs : <li>Configure SMB signing for Windows</li>
 Disable insecure TLS/SSL protocol support
 Obtain a new certificate from your CA and<br>ensure the server configuration is correct
 Disable SSLv2, SSLv3, and TLS 1.0. The best<br>solution is to only have TLS 1.2 enabled

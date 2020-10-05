@@ -1,6 +1,8 @@
 # MEMBaselines
 Collection of Baselines and or Configuration Itemss for Microsoft Endpoint Manager Configuration Manager for Defeating Vulnerability Scans
 
+![alt text](https://github.com/WernerRall147/MEMBaselines/blob/main/3.jpg?raw=true)
+
 Currently Included is
 Baseline : Top 25 Remediations by Risk
 CIs : <li>Configure SMB signing for Windows</li>
